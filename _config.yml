@@ -61,31 +61,25 @@ author:
   name   : "Henrique Nóbrega Grigolli"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Java Developer"
+  email  : "henrigrigo@gmail.com"
   links:
-    #- label: "Website"
-    #  icon: "fas fa-fw fa-link"
-    #  url: "https://grigolli.dev"
-    #- label: "Twitter"
-    #  icon: "fab fa-fw fa-twitter-square"
-    #  url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hgrigolli"
-    #- label: "Personal Interests"
-    #  icon: "fas fa-clipboard-list"
-    #  url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/hgrigolli/"
+
+
 
 footer:
   links:
-    #- label: "Twitter"
-    #  icon: "fab fa-fw fa-twitter-square"
-    #  url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hgrigolli"
-    #- label: "Instagram"
-    #  icon: "fab fa-fw fa-instagram"
-    #  url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/hgrigolli/"
 
 defaults:
   # _posts
