@@ -7,6 +7,4 @@ tags:
   - dynamic-programming
 ---
 
-Aula Basile - Exercicio Programa:
-
 Resolver em C o problema da torre de hanoi com programação dinamica
