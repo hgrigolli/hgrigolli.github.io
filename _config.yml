@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Henrique Nóbrega Grigolli"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Java Developer"
+  bio    : "Desenvolvedor Java"
   email  : "henrigrigo@gmail.com"
   links:
     - label: "GitHub"
